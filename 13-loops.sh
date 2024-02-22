@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in {1..100} & {A..Z}
+for i in {A..Z}
 
 do
     echo "$i"
