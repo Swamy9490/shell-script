@@ -10,4 +10,4 @@ else
     echo "you are root user"
     fi # fi means reverse of if, indiacating condition end
  
-    echo "All arguments passed $R
+    echo "All arguments passed $R"
