@@ -26,4 +26,4 @@ if [ -z "$NAME" ] || [ -z "$WISHES" ]; then
     USAGE
     exit 1
 fi
-    echo "Hello $NAMES. $WISHES. I have been learning shell script"
+    echo "Hello $NAME. $WISHES. I have been learning shell script"
